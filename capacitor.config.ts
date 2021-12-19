@@ -2,11 +2,11 @@ import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
   appId: "com.company.appname",
-  appName: "react-capacitor-stater",
+  appName: "Surreal AI",
   webDir: "build",
   bundledWebRuntime: false,
   server: {
-    allowNavigation: ["google.com"]
+    allowNavigation: ["surreal-ai.com"]
   }
 };
 

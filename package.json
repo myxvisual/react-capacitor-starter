@@ -12,6 +12,7 @@
     "build:android": "./android gradlew build",
     "open:android": "cap open android",
     "open:ios": "cap open ios",
+    "icons:android": "cordova-res android --skip-config --copy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -29,6 +30,7 @@
     "@capacitor/status-bar": "^1.0.6"
   },
   "devDependencies": {
+    "cordova-res": "^0.15.4",
     "typescript": "^4.5.4"
   }
 }

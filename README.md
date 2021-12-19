@@ -5,6 +5,7 @@ https://capacitorjs.com/docs/apis
 https://capacitorjs.com/docs/cli
 https://developer.android.com/studio/build/building-cmdline
 https://github.com/ionic-team/native-run/wiki/Android-Errors
+https://github.com/ionic-team/capacitor-assets
 
 ```sh
 npm install @capacitor/cli

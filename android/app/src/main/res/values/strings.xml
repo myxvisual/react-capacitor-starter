@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">react-capacitor-stater</string>
-    <string name="title_activity_main">react-capacitor-stater</string>
+    <string name="app_name">Sureal AI</string>
+    <string name="title_activity_main">Sureal AI</string>
     <string name="package_name">com.company.appname</string>
     <string name="custom_url_scheme">com.company.appname</string>
 </resources>
