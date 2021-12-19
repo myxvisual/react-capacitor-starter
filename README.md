@@ -2,7 +2,9 @@
 
 https://capacitorjs.com/docs/config
 https://capacitorjs.com/docs/apis
+https://capacitorjs.com/docs/cli
 https://developer.android.com/studio/build/building-cmdline
+https://github.com/ionic-team/native-run/wiki/Android-Errors
 
 ```sh
 npm install @capacitor/cli
@@ -71,4 +73,20 @@ android {
     }
 }
 
+```
+
+## ENV
+```sh
+JAVA_HOME
+java -version
+
+gradlew
+
+# Android Studio, on top right corner option select "SDK Manager".
+# Support latest Android SDK 31
+ANDROID_SDK_ROOT
+
+# ANDROID_SDK_ROOT/emulator
+emulator -list-avds
+emulator -avd avd_name
 ```

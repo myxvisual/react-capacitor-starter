@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: "com.company.appname",
   appName: "react-capacitor-stater",
   webDir: "build",
-  bundledWebRuntime: false
+  bundledWebRuntime: true,
 };
 
 export default config;
