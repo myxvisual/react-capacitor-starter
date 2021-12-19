@@ -2,5 +2,10 @@
 	"appId": "com.company.appname",
 	"appName": "react-capacitor-stater",
 	"webDir": "build",
-	"bundledWebRuntime": false
+	"bundledWebRuntime": true,
+	"server": {
+		"allowNavigation": [
+			"google.com"
+		]
+	}
 }

@@ -5,6 +5,9 @@ const config: CapacitorConfig = {
   appName: "react-capacitor-stater",
   webDir: "build",
   bundledWebRuntime: true,
+  server: {
+    allowNavigation: ["google.com"]
+  }
 };
 
 export default config;
